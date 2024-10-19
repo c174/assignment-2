@@ -1,3 +1,10 @@
+% Author Name: [Chase Courson]
+% Email: [courso95@students.rowan.edu]
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Assignment 2
+% Task: [Part 2]
+% Date: [10/18/2024]
+
 % Wrote the def of the function
 function encrypted_message = caesar_cipher(message, shift)
     ascii_values = double(message);
