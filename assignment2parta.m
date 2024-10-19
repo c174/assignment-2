@@ -1,3 +1,10 @@
+% Author Name: [Chase Courson]
+% Email: [courso95@students.rowan.edu]
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Assignment 2
+% Task: [Part 1]
+% Date: [10/18/2024]
+
 % 1a: Made vector for population
 population = [5000, 5200, 5350, 5600, 5800];
 
