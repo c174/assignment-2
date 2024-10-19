@@ -1,3 +1,10 @@
+% Author Name: [Chase Courson]
+% Email: [courso95@students.rowan.edu]
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Assignment 2
+% Task: [Part 3]
+% Date: [10/18/2024]
+
 % Part 1: Created the weather.data.text with a weather file
 fileID = fopen('weather_data.txt', 'w');
 fprintf(fileID, 'Date,Temperature,Humidity,Precipitation\n');
