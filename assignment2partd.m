@@ -1,3 +1,10 @@
+% Author Name: [Chase Courson]
+% Email: [courso95@students.rowan.edu]
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Assignment 2
+% Task: [Part 4]
+% Date: [10/18/2024]
+
 % Part 1: Defined the solar system data, pluto was planet until 2007
 planet_names = {'Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'};
 planet_distances = [0.39, 0.72, 1.0, 1.52, 5.2, 9.58, 19.22, 30.05, 39.48]; % Distances in AU
