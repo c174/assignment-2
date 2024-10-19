@@ -1,3 +1,10 @@
+% Author Name: [Chase Courson]
+% Email: [courso95@students.rowan.edu]
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Assignment 2
+% Task: [Part 5]
+% Date: [10/18/2024]
+
 % Part 1: Created 'stock_data.txt' with daily closing prices
 fileID = fopen('stock_data.txt', 'w');
 % Generated random stock prices between 100 and 200 for 30 days
