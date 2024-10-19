@@ -17,7 +17,7 @@ function encrypted_message = caesar_cipher(message, shift)
     encrypted_message = char(ascii_values);
 end
 
-% wrote a main script that can be saved as a seperate script file
+% Wrote a main script that can be saved as a seperate script file
 message = input('Enter a message (lowercase letters only): ', 's');
 shift = input('Enter a shift value (1-25): ');
 
